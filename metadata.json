@@ -1,0 +1,5 @@
+{
+  "name": "WonderTales",
+  "description": "An interactive AI-powered picture book creator for children with text-to-speech storytelling and learning progress tracking.",
+  "requestFramePermissions": []
+}
